@@ -1,0 +1,22 @@
+{
+  "name": "ra2.-t4.-gulp-o-grunt-para-t2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josang1567/RA2.-T4.-Gulp-o-Grunt-para-T2.git"
+  },
+  "author": "jose angel marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josang1567/RA2.-T4.-Gulp-o-Grunt-para-T2/issues"
+  },
+  "homepage": "https://github.com/josang1567/RA2.-T4.-Gulp-o-Grunt-para-T2#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
